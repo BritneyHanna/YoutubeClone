@@ -17,7 +17,6 @@ export const logo =
 
 export const categories = [
   { name: "New", icon: <HomeIcon /> },
-  { name: "JS Mastery", icon: <CodeIcon /> },
   { name: "Coding", icon: <CodeIcon /> },
   { name: "ReactJS", icon: <CodeIcon /> },
   { name: "NextJS", icon: <CodeIcon /> },
@@ -40,7 +39,6 @@ export const demoThumbnailUrl =
 export const demoChannelUrl = "/channel/UCmXmlB4-HJytD7wek0Uo97A";
 export const demoVideoUrl = "/video/GDa8kZLNhJ4";
 export const demoChannelTitle = "Nature Channel";
-export const demoVideoTitle =
-  "Learn about 1000 rare poisonous flower species";
+export const demoVideoTitle = "Learn about 1000 rare poisonous flower species";
 export const demoProfilePicture =
   "https://res.cloudinary.com/dcq0zcbkm/image/upload/v1660763106/cld-sample.jpg";
